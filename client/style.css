@@ -100,7 +100,16 @@ body, html {
 }
 .head{
     position:sticky;
-    top: 0;
-    color:rgb(5, 123, 115);;
     
+    top: 0;
+    color:rgb(85 41 29 / 83%);
+    
+}
+.name{
+    display:inline;
+    height: 60px;
+    margin-top: 300px;
+}
+h1{
+    display:inline;
 }
